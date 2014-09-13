@@ -1,4 +1,4 @@
-Breakout Session: Writing (75 min)
+< Own Your Expertise / Writing > 
 ==================================
 Something to note throughout the majority of this session: just barf it out, and edit it later. Meaning, the focus for this should not be perfection, but just flow. Shush your inner critic.
 
