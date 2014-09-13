@@ -1,5 +1,8 @@
 < Own Your Expertise / Writing > 
 ==================================
+
+Agenda is here: <http://bit.ly/WSC2014>
+
 Something to note throughout the majority of this session: just barf it out, and edit it later. Meaning, the focus for this should not be perfection, but just flow. Shush your inner critic.
 
 
