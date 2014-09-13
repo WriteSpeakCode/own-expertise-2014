@@ -1,4 +1,4 @@
-Breakout Session: Speaking (75 min)
+< Own Your Expertise / Speaking > 
 ===========================
 
 
