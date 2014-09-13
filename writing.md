@@ -2,6 +2,7 @@
 ==================================
 Something to note throughout the majority of this session: just barf it out, and edit it later. Meaning, the focus for this should not be perfection, but just flow. Shush your inner critic.
 
+
 Step 1: Finding an outlet (10 min)
 ----------------------------------
 
