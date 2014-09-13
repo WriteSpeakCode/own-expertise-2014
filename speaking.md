@@ -1,7 +1,7 @@
 < Own Your Expertise / Speaking > 
 ===========================
 
-
+Agenda is here: <bit.ly/WSC2014>
 
 Step 1: Find Opportunities to Speak (15 min)
 --------------------------------------------
