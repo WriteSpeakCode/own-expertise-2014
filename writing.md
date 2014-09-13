@@ -16,6 +16,8 @@ Do you simply want to start a personal blog?
  - <https://medium.com/>
  - <https://www.tumblr.com/>
 
+*(if you already have a blog or are going computerless today, feel free to start step 2)*
+
 Been wanting to make your own blog? There's not enough time today, but we've listed some static-site generators on the etherpad: <https://pad.riseup.net/p/WSC2014Writing>
 
 
