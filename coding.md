@@ -1,6 +1,8 @@
 < Own Your Expertise / Coding >
 =================================
 
+Agenda is here: <http://bit.ly/WSC2014>
+
 One hour is not a lot of time, and most likely we won't have time to actually contribute to a project today. But we can at least start the process, by finding a project that both interests you and is beginner-friendly, then setting it up on your local machine.
 
 Step 1: Find an Open Source Project to Contribute to (15 min)
