@@ -1,5 +1,4 @@
-## < Write / Speak / Code > 
-## Speaking Opportunities
+## < Own Your Expertise / Speaking Opportunities >
 
 ### Big Conferences:
 
