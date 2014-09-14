@@ -1,5 +1,7 @@
 ## < Own Your Expertise / Speaking Opportunities >
 
+Brainstorm of speaking opportunities, including CFPs (collected Fall 2014)
+
 ### Big Conferences:
 
 -	Grace Hopper (Women in CS) - fall
