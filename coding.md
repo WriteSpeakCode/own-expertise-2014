@@ -5,6 +5,12 @@ Agenda is here: <http://bit.ly/WSC2014>
 
 One hour is not a lot of time, and most likely we won't have time to actually contribute to a project today. But we can at least start the process, by finding a project that both interests you and is beginner-friendly, then setting it up on your local machine.
 
+
+Step 0: Write Down Your Goal (and Motivation) for Contributing to Open Source
+-------------------------------------------------------------
+There are plenty of amazing opportunities in open source - endless, really - so it's important for you to know what you personally are hoping to get from your open source experience. Are you building up a portfolio of work? Looking to learn from a different codebase outside of your day job? Hoping to help the community? Looking for help or feedback on something you've built? Start with writing down your goals, in priorty order if you have multiple goals, and use that as your guide to which open source opportunities you pursue.
+
+
 Step 1: Find an Open Source Project to Contribute to (15 min)
 ---------------------------------------------------------------
 
