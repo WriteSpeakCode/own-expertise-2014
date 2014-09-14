@@ -38,12 +38,12 @@ Feeling Overwhelmed? Try these:
 - Try a [bite sized bug](http://openhatch.org/search/?q=&toughness=bitesize) on Open Hatch
 
 Articles with advice for beginners:
-- <http://juliepagano.com/blog/2013/11/14/beginner-friendly-open-source-projects/>
-- <https://blog.generalassemb.ly/beginners-guide-contributing-open-source/>
-- <http://blog.newrelic.com/2014/05/05/open-source_gettingstarted/>
-- <http://www.itworld.com/print/356932>
-- <http://blog.teamtreehouse.com/getting-involved-open-source-projects>
-- Open Advice: what 42 prominent contributors wish they knew when they started contributing to open source <http://open-advice.org/>
+- [Beginner Friendly Open Source Projects](http://juliepagano.com/blog/2013/11/14/beginner-friendly-open-source-projects/), by Julie Pagano (@juliepagano)
+- [A Beginner’s Guide To Contributing To Open Source](http://natashatherobot.com/beginners-contributing-to-open-source/), by Natasha Murashev (@NatashaTheRobot)
+- [The Beginner’s Guide to Contributing to Open Source Projects](http://blog.newrelic.com/2014/05/05/open-source_gettingstarted/), by Andy Lester (@petdance)
+- [7 open source projects to cut your teeth on (and the ones to avoid)](http://www.itworld.com/print/356932), by Rikki Endsley (@rendsley)
+- [Getting Involved in Open Source Projects](http://blog.teamtreehouse.com/getting-involved-open-source-projects), by Matt West (@matt-west)
+- [Open Advice: what 42 prominent contributors wish they knew when they started contributing to open source](http://open-advice.org/), edited by Lydia Pintscher (@lydiapintscher)
 
 Step 2: Check-in & Feedback (5 min)
 ---------------------------------------------------
