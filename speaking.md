@@ -18,11 +18,11 @@ Find opportunites to speak in your area of interest
     1. ______________________
     2. ______________________
     3. ______________________
-4. Share your findings on the Write/Speak/Code Etherpad:
-    <https://pad.riseup.net/p/WSC2014Speaking>
+4. Share your findings:
+    <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/speaking-opportunities.md>
 
 Resources:
--   <https://pad.riseup.net/p/WSC2014Speaking>
+-   <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/speaking-opportunities.md>
 -   <http://lanyrd.com>
 -   <http://twitter.com/CallbackWomen>
 -   <http://calltospeakers.com>
@@ -67,7 +67,7 @@ Feedback to give when reviewing proposals:
 Step 4: Let's share our work! (5 min)
 --------------------------------------
 
-Let's take this time to share what we did with each other: <https://pad.riseup.net/p/WSC2014>
+Let's take this time to share what we did with each other
 
 What do I do after today?
 --------------------------------------
@@ -76,6 +76,6 @@ What do I do after today?
     -   your friends, coworkers, in front of your mirror, record then watch yourself
     -   reach out to meetups
 
-Resources:
+External Resources:
 -   WSC: [Public Speaking Tips for Technical People](http://www.writespeakcode.com/blog/2013/11/16/public-speaking-tips-for-technical-people.html)
 -   Speaking Resources - How to Prep, Practice, and Design your Talk <http://speakup.io/resources.html>
