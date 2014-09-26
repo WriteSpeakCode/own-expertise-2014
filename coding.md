@@ -12,7 +12,7 @@ Step 1: Find an Open Source Project to Contribute to (15 min)
   1. _______________________
   2. _______________________
   3. _______________________
-2. Share what you found on the WSC2014 Etherpad: <https://pad.riseup.net/p/WSC2014Coding>
+2. Share what you found on the WSC2014 Etherpad: <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/coding-opportunities.md>
 
 Tips for brainstorming potential projects:
 - What projects do you use and would personally benefit from?
