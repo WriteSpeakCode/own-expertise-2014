@@ -12,7 +12,7 @@ Step 1: Find an Open Source Project to Contribute to (15 min)
   1. _______________________
   2. _______________________
   3. _______________________
-2. Share what you found on the WSC2014 Etherpad: <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/coding-opportunities.md>
+2. Share what you found: <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/coding-opportunities.md>
 
 Tips for brainstorming potential projects:
 - What projects do you use and would personally benefit from?
@@ -69,7 +69,7 @@ If you finish setting up your project environment, go ahead and start working on
 Step 5: Check-in & Feedback (5 min)
 -----------------------
 - How did finding issues & project setup go?
-- Let's also take this time to share what we did with each other: https://pad.riseup.net/p/WSC2014
+- Let's also take this time to share what we did with each other
 
 What to do after today?
 -----------------------
@@ -77,8 +77,7 @@ What to do after today?
 - Seek out a mentor if you need help submitting a pull request (a mailing list, a meetup office hours, us!)
 - Make some public projects for yourself
 - Blog/tweet about it!
-- Go to open source socials 
-  - know of an upcoming event? Share it here: <https://pad.riseup.net/p/WSC2014Coding>
+- Go to open source socials. Know of an upcoming event? Share it here: <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/coding-opportunities.md>
 
 
 
