@@ -12,7 +12,6 @@ Step 1: Finding an outlet (10 min)
 Interested in... 
 
 Submitting your writing somewhere? Self publishing? 
- - Find/add opportunities to the Etherpad <https://pad.riseup.net/p/WSC2014Writing>
 
 Do you simply want to start a personal blog?
 - Use this time to setup your blog if you don't already have one. Here are some options to quickly get you up-and-running:
