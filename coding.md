@@ -1,6 +1,9 @@
 < Own Your Expertise / Coding >
 =================================
 
+**Work in Progresss for Chicago**
+
+
 Agenda is here: <http://bit.ly/WSC2014>
 
 One hour is not a lot of time, and most likely we won't have time to actually contribute to a project today. But we can at least start the process, by finding a project that both interests you and is beginner-friendly, then setting it up on your local machine.
@@ -8,22 +11,18 @@ One hour is not a lot of time, and most likely we won't have time to actually co
 Step 1: Find an Open Source Project to Contribute to (15 min)
 ---------------------------------------------------------------
 
+Using your brainstorms on your values knowledge, and experience, research some projects you would be interested in contributing to.
+
 1. Find 1-3 potential projects to contribute to
   1. _______________________
   2. _______________________
   3. _______________________
-2. Share what you found: <https://github.com/WriteSpeakCode/own-expertise-2014/blob/master/coding-opportunities.md>
+2. Share what you found on the etherpad.
 
 Tips for brainstorming potential projects:
 - What projects do you use and would personally benefit from?
 - Is there an issue you're passionate about?
-- Contributions don't have to be *just* code. Many open source projects are sorely needing better documentation (think of all the libraries you've used that could benefit from more/clearer examples)
-
-What to look for:
-- good documentation on how to contribute, including how to setup and run
-- good test coverage (so you know you don’t break shit)
-- a community (google group, IRC, forum etc)
-- labelled issues
+- Contributions don't have to be *just* code. Many open source projects are sorely needing better documentation (think of all the libraries you've used that could benefit from more/clearer examples), tests, and design.
 
 Resources:
 -  CodeMontage: Open Source Projects with Social Impact <https://www.codemontage.com/projects>
@@ -47,9 +46,27 @@ Articles with advice for beginners:
 
 Step 2: Check-in & Feedback (5 min)
 ---------------------------------------------------
-Let's spend a few minutes to share some of the projects with each other: 
+
+Find a pair and share your research:
+- where did you look to find projects?
 - what types of projects did you try to find?
 - how did you decide on a project?
+
+Give each other suggestions on other projects or areas to look at.
+
+
+Step 3: Assess the projects (15 mins)
+---------------------------------------------------
+Facilitator will bring up a few projects from the etherpad and look at their Github pages.  
+
+What to look for:
+- good documentation on how to contribute, including how to setup and run
+- good test coverage (so you know you don’t break shit)
+- a community (google group, IRC, forum etc)
+- labelled issues
+
+Step 4: Clone the repository and run it
+---------------------------------------------------
 
 Step 3: Find 1-2 issues that you could attempt (15 min)
 ---------------------------------------------------
