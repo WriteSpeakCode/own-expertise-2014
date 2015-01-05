@@ -1,31 +1,33 @@
 < Own Your Expertise / Writing > 
 ==================================
 
-Agenda is here: <http://bit.ly/WSC2014>
+- [Intro](#intro-just-write-2-min) - 2 min - **lead by facilitator**
+- [Pick a topic & outline](#step-1-pick-a-topic-outline-8-min) - 8 mins - *solo work*
+- [Feedback](#step-2-get-feedback-10-min) - 10 min - *pair work*
+- [Write](#step-3-write-15-min) - 15 min - *solo work*
+- [Feedback](#step-4-get-feedback-10-min) - 10 min - *pair work*
+- [Write](#step-5-write-15-min) - 15 min - *solo work*
+- [Share](#step-6-let-s-share-our-work-5-min) - 5 min - **lead by
+facilitator**
+- [What's next?](#what-do-i-do-after-today)
 
-Something to note throughout the majority of this session: just barf it out, and edit it later. Meaning, the focus for this should not be perfection, but just flow. Shush your inner critic.
 
 
-Step 1: Finding an outlet (10 min)
+Intro: Just write! (2 min)
 ----------------------------------
 
-Interested in... 
+Something to note throughout the majority of this session: just barf it
+out, and edit it later. The focus for this should not be perfection, but just flow. Shush your inner critic.
 
-Submitting your writing somewhere? Self publishing? 
-
-Do you simply want to start a personal blog?
-- Use this time to setup your blog if you don't already have one. Here are some options to quickly get you up-and-running:
- - <https://wordpress.com/>
- - <https://medium.com/>
- - <https://www.tumblr.com/>
-
-*(if you already have a blog or are going computerless today, feel free to start step 2)*
-
-Been wanting to make your own blog? There's not enough time today, but we've listed some static-site generators on the etherpad: <https://pad.riseup.net/p/WSC2014Writing>
+This session will be a timed dictatorship to get you to write,
+write, write.
 
 
-Step 2: Writing 1-2 Article Ideas/Outlines (15 min)
----------------------------------------------------
+Step 1: Pick a Topic & Outline (8 min)
+-----------------------------------------
+
+You have a list of 20 topics to write or speak about - choose one!
+*Choose a few if you can't narrow it down*
 
 Suggestions on what to write about
 - reflections on the learning process, 
@@ -34,25 +36,35 @@ Suggestions on what to write about
 - updates on your progress on your coding projects. 
 - “Every time you spend more than five minutes fixing a bug, you should write about it" -Debra Williams Cauley at WSC 2013 ([more](http://www.writespeakcode.com/blog/2013/11/16/so-you-wanna-write-tech-books.html))
 
-Step 3: Feedback (5 min)
----------------------------------------------------
-Let's spend a few minutes to get into groups of 2-3, to get feedback from each other.
+Step 2: Get Feedback (10 min)
+-----------------------------------------
 
-Step 4: Writing your blog entry (20 min)
----------------------------------------------------
-You'll have 30 minutes in total to write, but we'll do a 2 minute check-in with your group 20 minutes in.
+Get in a pair and discuss your choosen topics or the few you are
+considering.  Help each other flesh out the idea.
 
-Step 5: Quick feedback/check-in (2 min)
----------------------------------------------------
-Let's quickly check-in with each other - need help with flow, storyline, etc?
+Spend 5 mins on each person's work.
 
-Step 6: Finish up blog entry (10 min)
----------------------------------------------------
-Most likely we won't finish the blog entries 100% today. But let's at least try to finish up the framework, so it's easy to finish up later.
+Step 3: Write (15 min)
+-----------------------------------------
 
-Step 7: Let's share our work! (3 min)
+Start writing your blog post or article. Just do it!
+
+Step 4: Get Feedback (10 min)
+-----------------------------------------
+
+Get in a *different* pair and discuss your choosen topics or the few you are
+considering.  Help each other flesh out the idea.
+
+Step 5: Write (15 min)
+-----------------------------------------
+
+Keep writing!
+
+Step 6: Let's share our work! (5 min)
 ---------------------------------------------------
-Let's take this time to share what we did with each other: <https://pad.riseup.net/p/WSC2014>
+
+Go around and have each person say the topic they are writing
+about and brief description.
 
 What do I do after today?
 ---------------------------------------------------
