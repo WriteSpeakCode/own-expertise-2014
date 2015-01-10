@@ -28,9 +28,9 @@
 
 1pm-2pm: Lunch
 
-2:20pm: **[Facilitated exercise](./facilited_exercises.md)**
+2:20pm: **[Facilitated exercise](./facilitated_exercises.md)**
 
-2:55: **[Facilitated exercise](./facilited_exercises.md)**
+2:55: **[Facilitated exercise](./facilitated_exercises.md)**
 
 3:20pm-3:30pm: Break 
 
