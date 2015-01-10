@@ -19,9 +19,9 @@ Second time: push on evidence - do you believe them? how can they make the exper
 - Stand in a circle
 - Pass around a bag of M&Ms
 - Each woman takes one
-- Based on the color of the M&M, answer a question (written on slides):
+- Based on the color of the M&M, answer a question (written on slides)
 
-
+### Colors + Questions
 - Brown: A hack I used to accomplish X
 - Orange: Last bug I fixed
 - Red: My favorite tool/technique/module/etc
